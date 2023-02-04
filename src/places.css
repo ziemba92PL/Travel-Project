@@ -8,10 +8,8 @@ header {
 }
 
 main ul {
-  width: 1500px;
+  width: 800px;
   margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 main li {
@@ -49,5 +47,4 @@ main li img {
 
 .actions a:hover {
   background-color: rgb(235, 253, 255);
-
 }
